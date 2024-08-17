@@ -1,5 +1,5 @@
 ### Victto Lopes aqui     ;)
-Autodidata, Estudante de Economia e entusiasta da tecnologias e inovação. 
+Autodidata, Estudante de Economia e entusiasta da Tecnologias e Inovação. 
 
 Forte interesse em análise de dados, mercado financeiro e matemática, além de desenvolvimento de sistemas e automações para elevar a produtividade.
 

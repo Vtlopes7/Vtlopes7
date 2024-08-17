@@ -1,7 +1,7 @@
 ### Victto Lopes aqui     ;)
 Autodidata, Estudante de Economia e entusiasta da tecnologias e inovação. 
 
-Forte interesse em análise de dados, mercado financeiro e matemática, Além de desenvolvimento de sistemas e automações para elevar a produtividade.
+Forte interesse em análise de dados, mercado financeiro e matemática, além de desenvolvimento de sistemas e automações para elevar a produtividade.
 
 Comecei a estudar Python em julho de 2024 e sigo aplicando essas habilidades no meu dia a dia, no trabalho e em projetos pessoais e de estudo. 
 

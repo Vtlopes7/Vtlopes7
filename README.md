@@ -12,7 +12,6 @@ Busco constantemente novos desafios e oportunidades para expandir meu conhecimen
 
 - 📊 *Analista Financeiro* no Fundo Municipal de Saúde de Duque de Caxias.
 - ⚡ Apaixonado por *Esportes e Alta Performance*.
-- 🎬 Iniciando conteúdo sobre *Finanças, Python e Tecnologia* no YouTube no canal [Insight](https://www.youtube.com/channel/UCr1rYVhxlQRXCdh6BQHaHXQ)
 - 🖥️ Atualmente mais focado em:
 
 
